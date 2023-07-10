@@ -36,3 +36,7 @@
   - load factor - on reaching a threshold double tableSize
 
 - https://youtu.be/UJkE-apV9Dk
+  - unordered_map, map
+    - Example: linked list contains cycle?, phone book (ordered by alphabetical order)
+  - unordered_set, set
+    - pair sum K
